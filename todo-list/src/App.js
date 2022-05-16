@@ -10,8 +10,8 @@ class App extends Component {
     input: "",
     todos: [
       { id: 0, text: "리액트 프로젝트 만들기", checked: true },
-      { id: 0, text: "TO DO LIST 만들기", checked: true },
-      { id: 0, text: "코딩테스트 연습", checked: false },
+      { id: 1, text: "TO DO LIST 만들기", checked: true },
+      { id: 2, text: "코딩테스트 연습", checked: false },
     ],
   };
 
